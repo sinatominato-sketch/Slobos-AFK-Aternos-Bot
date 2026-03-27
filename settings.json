@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "HEROBRINE",
+    "username": "ADMIN",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I HACK YOU",
+        "i bann you",
         "Subscribe to SINATO_23!",
-        "I like to play Minecraft and kill you!"
+        "Im the Admin!"
       ]
     },
     "chat-log": true,
